@@ -1,0 +1,19 @@
+400. ‘‘Yaṃ yadeva, bhikkhave, paccayaṃ paṭicca uppajjati viññāṇaṃ, tena teneva viññāṇaṃtveva saṅkhyaṃ gacchati . 
+Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṃ, cakkhuviññāṇaṃtveva saṅkhyaṃ gacchati; 
+sotañca paṭicca sadde ca uppajjati viññāṇaṃ, sotaviññāṇaṃtveva saṅkhyaṃ gacchati; 
+ghānañca paṭicca gandhe ca uppajjati viññāṇaṃ, ghānaviññāṇaṃtveva saṅkhyaṃ gacchati; 
+jivhañca paṭicca rase ca uppajjati viññāṇaṃ, jivhāviññāṇaṃtveva saṅkhyaṃ gacchati; 
+kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṃ, kāyaviññāṇaṃtveva saṅkhyaṃ gacchati; 
+manañca paṭicca dhamme ca uppajjati viññāṇaṃ, manoviññāṇaṃtveva saṅkhyaṃ gacchati.
+‘‘Seyyathāpi, bhikkhave, yaṃ yadeva paccayaṃ paṭicca aggi jalati tena teneva saṅkhyaṃ gacchati. 
+Kaṭṭhañca paṭicca aggi jalati, kaṭṭhaggitveva saṅkhyaṃ gacchati; 
+sakalikañca paṭicca aggi jalati, sakalikaggitveva saṅkhyaṃ gacchati; 
+tiṇañca paṭicca aggi jalati, tiṇaggitveva saṅkhyaṃ gacchati; 
+gomayañca paṭicca aggi jalati, gomayaggitveva saṅkhyaṃ gacchati; 
+thusañca paṭicca aggi jalati, thusaggitveva saṅkhyaṃ gacchati; 
+saṅkārañca paṭicca aggi jalati, saṅkāraggitveva saṅkhyaṃ gacchati. 
+Evameva kho, bhikkhave, yaṃ yadeva paccayaṃ paṭicca uppajjati viññāṇaṃ, tena teneva saṅkhyaṃ gacchati. 
+Cakkhuñca paṭicca rūpe ca uppajjati viññāṇaṃ, cakkhuviññāṇaṃtveva saṅkhyaṃ gacchati; 
+sotañca paṭicca sadde ca uppajjati viññāṇaṃ, sotaviññāṇaṃtveva saṅkhyaṃ gacchati, ghānañca paṭicca gandhe ca uppajjati viññāṇaṃ , ghāṇaviññāṇaṃtveva saṅkhyaṃ gacchati, jivhañca paṭicca rase ca uppajjati viññāṇaṃ, jivhāviññāṇaṃtveva saṅkhyaṃ gacchati. 
+Kāyañca paṭicca phoṭṭhabbe ca uppajjati viññāṇaṃ, kāyaviññāṇaṃtveva saṅkhyaṃ gacchati. 
+Manañca paṭicca dhamme ca uppajjati viññāṇaṃ, manoviññāṇaṃtveva saṅkhyaṃ gacchati.

@@ -1,0 +1,31 @@
+188. ‘‘‘Kiṃ nu kho, bho gotama, sassato loko, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+sassato loko, idameva saccaṃ moghamañña’nti vadesi . 
+‘Kiṃ pana, bho gotama, asassato loko, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha , evaṃdiṭṭhi – 
+asassato loko, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ nu kho, bho gotama, antavā loko, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+antavā loko, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ pana, bho gotama, anantavā loko, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+anantavā loko, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ nu kho, bho gotama, taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+taṃ jīvaṃ taṃ sarīraṃ, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ pana, bho gotama, aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+aññaṃ jīvaṃ aññaṃ sarīraṃ, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ nu kho, bho gotama, hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi.
+‘‘‘Kiṃ pana, bho gotama, na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ nu kho, bho gotama, hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+hoti ca na ca hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi. 
+‘Kiṃ pana, bho gotama, neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamaññanti – 
+evaṃdiṭṭhi bhavaṃ gotamo’ti iti puṭṭho samāno ‘na kho ahaṃ, vaccha, evaṃdiṭṭhi – 
+neva hoti na na hoti tathāgato paraṃ maraṇā, idameva saccaṃ moghamañña’nti vadesi.
+‘‘Kiṃ pana bho gotamo ādīnavaṃ sampassamāno evaṃ imāni sabbaso diṭṭhigatāni anupagato’’ti?

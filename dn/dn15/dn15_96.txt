@@ -1,0 +1,18 @@
+‘‘‘Atthi idappaccayā jarāmaraṇanti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā jarāmaraṇanti iti ce vadeyya, ‘jātipaccayā jarāmaraṇanti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā jātī’ ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā jātī’ ti iti ce vadeyya, ‘bhavapaccayā jātī’ ti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā bhavo’ ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ . 
+‘Kiṃpaccayā bhavo’ ti iti ce vadeyya, ‘upādānapaccayā bhavo’ ti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā upādānanti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā upādānanti iti ce vadeyya, ‘taṇhāpaccayā upādānanti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā taṇhā’ ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā taṇhā’ ti iti ce vadeyya, ‘vedanāpaccayā taṇhā’ ti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā vedanā’ ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā vedanā’ ti iti ce vadeyya, ‘phassapaccayā vedanā’ ti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā phasso’ ti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā phasso’ ti iti ce vadeyya, ‘nāmarūpapaccayā phasso’ ti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā nāmarūpanti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā nāmarūpanti iti ce vadeyya, ‘viññāṇapaccayā nāmarūpanti iccassa vacanīyaṃ.
+‘‘‘Atthi idappaccayā viññāṇanti iti puṭṭhena satā, ānanda, atthītissa vacanīyaṃ. 
+‘Kiṃpaccayā viññāṇanti iti ce vadeyya, ‘nāmarūpapaccayā viññāṇanti iccassa vacanīyaṃ.
