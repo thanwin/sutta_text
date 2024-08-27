@@ -1,4 +1,4 @@
-atha kho rājā māgadho ajātasattu vedehiputto pañcasu hatthinikāsatesu paccekā itthiyo āropetvā ārohaṇīyaṃ nāgaṃ abhiruhitvā ukkāsu dhāriyamānāsu rājagahamhā niyyāsi mahaccarājānubhāvena, yena jīvakassa komārabhaccassa ambavanaṃ tena pāyāsi.
+159. atha kho rājā māgadho ajātasattu vedehiputto pañcasu hatthinikāsatesu paccekā itthiyo āropetvā ārohaṇīyaṃ nāgaṃ abhiruhitvā ukkāsu dhāriyamānāsu rājagahamhā niyyāsi mahaccarājānubhāvena, yena jīvakassa komārabhaccassa ambavanaṃ tena pāyāsi.
 atha kho rañño māgadhassa ajātasattussa vedehiputtassa avidūre ambavanassa ahudeva bhayaṃ, ahu chambhitattaṃ, ahu lomahaṃso.
 atha kho rājā māgadho ajātasattu vedehiputto bhīto saṃviggo lomahaṭṭhajāto jīvakaṃ komārabhaccaṃ etadavoca — 
 “kacci maṃ, samma jīvaka, na vañcesi? 
@@ -6,5 +6,7 @@ kacci maṃ, samma jīvaka, na palambhesi?
 kacci maṃ, samma jīvaka, na paccatthikānaṃ desi? 
 kathañhi nāma tāva mahato bhikkhusaṅghassa aḍḍhateḷasānaṃ bhikkhusatānaṃ neva khipitasaddo bhavissati, na ukkāsitasaddo na nigghoso” ti.
 “mā bhāyi, mahārāja, mā bhāyi, mahārāja. 
-na taṃ deva, vañcemi; na taṃ, deva, palambhāmi; na taṃ, deva, paccatthikānaṃ demi. 
+na taṃ deva, vañcemi; 
+na taṃ, deva, palambhāmi; 
+na taṃ, deva, paccatthikānaṃ demi. 
 abhikkama, mahārāja, abhikkama, mahārāja, ete maṇḍalamāḷe dīpā jhāyantī” ti.
