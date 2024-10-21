@@ -1,0 +1,78 @@
+3. Tikamātikā
+753. Tividhena ñāṇavatthu –
+(1) Cintāmayā paññā, sutamayā paññā, bhāvanāmayā paññā
+(2) Dānamayā paññā, sīlamayā paññā, bhāvanāmayā paññā
+(3) Adhisīle paññā, adhicitte paññā, adhipaññāya paññā
+(4) Āyakosallaṃ, apāyakosallaṃ, upāyakosallaṃ
+(5) Vipākā paññā, vipākadhammadhammā paññā, nevavipākanavipākadhammadhammā paññā
+(6) Upādinnupādāniyā paññā, anupādinnupādāniyā paññā, anupādinnaanupādāniyā paññā
+(7) Savitakkasavicārā paññā, avitakkavicāramattā paññā, avitakkaavicārā paññā
+(8) Pītisahagatā paññā, sukhasahagatā paññā, upekkhāsahagatā paññā
+(9) Ācayagāminī paññā, apacayagāminī paññā, nevācayagāmināpacayagāminī paññā
+(10) Sekkhā paññā, asekkhā paññā, nevasekkhanāsekkhā paññā
+(11) Parittā paññā, mahaggatā paññā, appamāṇā paññā
+(12) Parittārammaṇā paññā, mahaggatārammaṇā paññā, appamāṇārammaṇā paññā
+(13) Maggārammaṇā paññā, maggahetukā paññā, maggādhipatinī paññā
+(14) Uppannā paññā , anuppannā paññā, uppādinī paññā
+(15) Atītā paññā, anāgatā paññā, paccuppannā paññā
+(16) Atītārammaṇā paññā, anāgatārammaṇā paññā, paccuppannārammaṇā paññā
+(17) Ajjhattā paññā, bahiddhā paññā, ajjhattabahiddhā paññā
+(18) Ajjhattārammaṇā paññā, bahiddhārammaṇā paññā, ajjhattabahiddhārammaṇā paññā
+(19) Savitakkasavicārā paññā atthi vipākā, atthi vipākadhammadhammā, atthi nevavipākanavipākadhammadhammā
+(20) Atthi upādinnupādāniyā, atthi anupādinnupādāniyā, atthi anupādinnaanupādāniyā
+(21) Atthi pītisahagatā, atthi sukhasahagatā, atthi upekkhāsahagatā
+(22) Atthi ācayagāminī, atthi apacayagāminī, atthi nevācayagāmināpacayagāminī
+(23) Atthi sekkhā, atthi asekkhā, atthi nevasekkhanāsekkhā
+(24) Atthi parittā, atthi mahaggatā, atthi appamāṇā
+(25) Atthi parittārammaṇā, atthi mahaggatārammaṇā, atthi appamāṇārammaṇā
+(26) Atthi maggārammaṇā, atthi maggahetukā, atthi maggādhipatinī
+(27) Atthi uppannā, atthi anuppannā, atthi uppādinī
+(28) Atthi atītā, atthi anāgatā , atthi paccuppannā
+(29) Atthi atītārammaṇā, atthi anāgatārammaṇā, atthi paccuppannārammaṇā
+(30) Atthi ajjhattā, atthi bahiddhā, atthi ajjhattabahiddhā
+(31) Atthi ajjhattārammaṇā, atthi bahiddhārammaṇā, atthi ajjhattabahiddhārammaṇā
+(32) Avitakkavicāramattā paññā atthi vipākā, atthi vipākadhammadhammā, atthi nevavipākanavipākadhammadhammā
+(33) Atthi upādinnupādāniyā, atthi anupādinnupādāniyā, atthi anupādinnaanupādāniyā
+(34) Atthi ācayagāminī, atthi apacayagāminī, atthi nevācayagāmināpacayagāminī
+(35) Atthi sekkhā, atthi asekkhā, atthi nevasekkhanāsekkhā
+(36) Atthi uppannā, atthi anuppannā, atthi uppādinī
+(37) Atthi atītā, atthi anāgatā, atthi paccuppannā
+(38) Atthi ajjhattā, atthi bahiddhā, atthi ajjhattabahiddhā
+(39) Avitakkaavicārā paññā atthi vipākā, atthi vipākadhammadhammā, atthi nevavipākanavipākadhammadhammā
+(40) Atthi upādinnupādāniyā, atthi anuppādinnupādāniyā, atthi anuppādinnaanupādāniyā
+(41) Atthi pītisahagatā, atthi sukhasahagatā, atthi upekkhāsahagatā
+(42) Atthi ācayagāminī, atthi apacayagāminī, atthi nevācayagāmināpacayagāminī
+(43) Atthi sekkhā, atthi asekkhā, atthi nevasekkhanāsekkhā
+(44) Atthi parittārammaṇā, atthi mahaggatārammaṇā, atthi appamāṇārammaṇā
+(45) Atthi maggārammaṇā, atthi maggahetukā, atthi maggādhipatinī
+(46) Atthi uppannā, atthi anuppannā, atthi uppādinī
+(47) Atthi atītā, atthi anāgatā, atthi paccuppannā
+(48) Atthi atītārammaṇā, atthi anāgatārammaṇā, atthi paccuppannārammaṇā
+(49) Atthi ajjhattā, atthi bahiddhā, atthi ajjhattabahiddhā
+(50) Atthi ajjhattārammaṇā, atthi bahiddhārammaṇā, atthi ajjhattabahiddhārammaṇā
+(51) Pītisahagatā paññā sukhasahagatā paññā atthi vipākā, atthi vipākadhammadhammā, atthi nevavipākanavipākadhammadhammā
+(52) Atthi upādinnupādāniyā, atthi anupādinnupādāniyā, atthi anupādinnaanupādāniyā
+(53) Atthi savitakkasavicārā, atthi avitakkavicāramattā, atthi avitakkaavicārā
+(54) Atthi ācayagāminī, atthi apacayagāminī, atthi nevācayagāmināpacayagāminī
+(55) Atthi sekkhā, atthi asekkhā, atthi nevasekkhanāsekkhā
+(56) Atthi parittā, atthi mahaggatā, atthi appamāṇā
+(57) Atthi parittārammaṇā, atthi mahaggatārammaṇā, atthi appamāṇārammaṇā
+(58) Atthi maggārammaṇā , atthi maggahetukā, atthi maggādhipatinī
+(59) Atthi uppannā, atthi anuppannā, atthi uppādinī
+(60) Atthi atītā, atthi anāgatā, atthi paccuppannā
+(61) Atthi atītārammaṇā, atthi anāgatārammaṇā, atthi paccuppannārammaṇā
+(62) Atthi ajjhatā, atthi bahiddhā, atthi ajjhattabahiddhā
+(63) Atthi ajjhattārammaṇā, atthi bahiddhārammaṇā, atthi ajjhattabahiddhārammaṇā
+(64) Upekkhāsahagatā paññā atthi vipākā, atthi vipākadhammadhammā, atthi nevavipākanavipākadhammadhammā
+(65) Atthi upādinnupādāniyā, atthi anupādinnupādāniyā, atthi anupādinnaanupādāniyā
+(66) Atthi ācayagāminī, atthi apacayagāminī, atthi nevācayagāmināpacayagāminī
+(67) Atthi sekkhā, atthi asekkhā, atthi nevasekkhanāsekkhā
+(68) Atthi parittā, atthi mahaggatā, atthi appamāṇā
+(69) Atthi parittārammaṇā, atthi mahaggatārammaṇā, atthi appamāṇārammaṇā
+(70) Atthi maggārammaṇā, atthi maggahetukā, atthi maggādhipatinī
+(71) Atthi uppannā, atthi anuppannā, atthi uppādinī
+(72) Atthi atītā, atthi anāgatā, atthi paccuppannā
+(73) Atthi atītārammaṇā, atthi anāgatārammaṇā, atthi paccuppannārammaṇā
+(74) Atthi ajjhattā, atthi bahiddhā, atthi ajjhattabahiddhā
+(75) Atthi ajjhattārammaṇā, atthi bahiddhārammaṇā, atthi ajjhattabahiddhārammaṇā
+Evaṃ tividhena ñāṇavatthu.

@@ -1,0 +1,11 @@
+763. Na aññamaññassa gocaravisayaṃ paccanubhontīti cakkhuviññāṇassa gocaravisayaṃ sotaviññāṇaṃ na paccanubhoti, sotaviññāṇassa gocaravisayampi cakkhuviññāṇaṃ na paccanubhoti. 
+Cakkhuviññāṇassa gocaravisayaṃ ghānaviññāṇaṃ na paccanubhoti, ghānaviññāṇassa gocaravisayampi cakkhuviññāṇaṃ na paccanubhoti. 
+Cakkhuviññāṇassa gocaravisayaṃ jivhāviññāṇaṃ na paccanubhoti, jivhāviññāṇassa gocaravisayampi cakkhuviññāṇaṃ na paccanubhoti. 
+Cakkhuviññāṇassa gocaravisayaṃ kāyaviññāṇaṃ na paccanubhoti, kāyaviññāṇassa gocaravisayampi cakkhuviññāṇaṃ na paccanubhoti.
+Sotaviññāṇassa …pe… 
+ghānaviññāṇassa …pe… 
+jivhāviññāṇassa …pe… 
+kāyaviññāṇassa gocaravisayaṃ cakkhuviññāṇaṃ na paccanubhoti, cakkhuviññāṇassa gocaravisayampi kāyaviññāṇaṃ na paccanubhoti.
+Kāyaviññāṇassa gocaravisayaṃ sotaviññāṇaṃ na paccanubhoti, sotaviññāṇassa gocaravisayampi kāyaviññāṇaṃ na paccanubhoti.
+Kāyaviññāṇassa gocaravisayaṃ ghānaviññāṇaṃ na paccanubhoti, ghānaviññāṇassa gocaravisayampi kāyaviññāṇaṃ na paccanubhoti.
+Kāyaviññāṇassa gocaravisayaṃ jivhāviññāṇaṃ na paccanubhoti, jivhāviññāṇassa gocaravisayampi kāyaviññāṇaṃ na paccanubhoti.
